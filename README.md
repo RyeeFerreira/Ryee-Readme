@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/ryee-ferreira-91a43a1b7/">Ryee Ferreira 😉 </a>
 </h1>
 
-<p>Full-Stack Developer Js </p>
+<p align="center">Full-Stack Developer Js </p>
 
 <div align="center">
   <a href="https://github.com/RyeeFerreira">
